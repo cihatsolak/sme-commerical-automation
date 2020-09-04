@@ -14,5 +14,5 @@ In particular, it has been worked on displaying all the statistical information 
  * DevExpress
  
 #### Contact Addresses
-##### ![174857](https://user-images.githubusercontent.com/54249736/92269286-8b996580-eeec-11ea-86b5-c1ba05a77a74.png) Linkedin: [Send a message on Linkedin](https://www.linkedin.com/in/cihatsolak/)
+##### ![174857](https://user-images.githubusercontent.com/54249736/92269373-b97eaa00-eeec-11ea-8c37-ce03251c749c.png) Linkedin: [Send a message on Linkedin](https://www.linkedin.com/in/cihatsolak/)
 ##### Twitter: [Go to @cihattsolak](https://twitter.com/cihattsolak)
