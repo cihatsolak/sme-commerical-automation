@@ -45,7 +45,7 @@ namespace kobiTicariOtomasyon
                 {
                     MailMessage mail = new MailMessage();
                     SmtpClient istemci = new SmtpClient();
-                    istemci.Credentials = new System.Net.NetworkCredential("kobiticariotomasyon@hotmail.com", "123456789+-");
+                    istemci.Credentials = new System.Net.NetworkCredential("*****", "****");
                     istemci.Port = 587;
                     istemci.Host = "smtp.live.com";
                     istemci.EnableSsl = true;
