@@ -16,3 +16,4 @@ In particular, it has been worked on displaying all the statistical information 
 #### Contact Addresses
 ##### Linkedin: [Send a message on Linkedin](https://www.linkedin.com/in/cihatsolak/)
 ##### Twitter: [Go to @cihattsolak](https://twitter.com/cihattsolak)
+##### Medium: [Read from medium](https://cihatsolak.medium.com/)
