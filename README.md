@@ -8,7 +8,7 @@ In particular, it has been worked on displaying all the statistical information 
 
 ![resim2](https://user-images.githubusercontent.com/54249736/92268929-e7afba00-eeeb-11ea-943d-ed57f7c12a47.png)
 
- #### Uploaded Packages
+ #### Installed Packages
  * Microsoft.ReportingServices.ReportViewerControl.Winforms,
  * Microsoft.SqlServer.Types
  * DevExpress
